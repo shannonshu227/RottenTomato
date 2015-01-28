@@ -1,13 +1,13 @@
 # RottenTomato
 
-Time Spent: 7 hours
+Time Spent: 9 hours
 Required
 
 [yes] User can view a list of movies. Poster images load asynchronously.
 [yes] User can view movie details by tapping on a cell.
 [yes] User sees loading state while waiting for the API.
-[ ] User sees error message when there is a network error: http://cl.ly/image/1l1L3M460c3C
-[ ] User can pull to refresh the movie list.
+[yes] User sees error message when there is a network error: http://cl.ly/image/1l1L3M460c3C
+[yes] User can pull to refresh the movie list.
 Optional
 
 [ ] Add a tab bar for Box Office and DVD.
