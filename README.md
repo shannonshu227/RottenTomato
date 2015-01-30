@@ -18,3 +18,6 @@ Optional
 [ ] Customize the highlight and selection effect of the cell.
 [ ] Customize the navigation bar.
 
+#Walkthrough
+![Video Walkthrough](rotten_tomato.gif)
+
